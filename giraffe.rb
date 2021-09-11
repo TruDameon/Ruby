@@ -60,7 +60,7 @@
 # name = gets
 # puts ("Hello " + name)
 # puts ("Hello " + name + ", you are cool!")
-name = gets.chomp()
-puts ("Hello " + name + ", you are cool!")
-age = gets.chomp()
-puts ("Hello " + name + ", you are " + age)
+# name = gets.chomp()
+# puts ("Hello " + name + ", you are cool!")
+# age = gets.chomp()
+# puts ("Hello " + name + ", you are " + age)
